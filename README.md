@@ -1,6 +1,7 @@
 # screencompare
 Install
 <ul>
+<li>$ cd ~
 <li>$ brew update
 <li>$ brew doctor
 <li>$ brew install ruby OR brew upgrade ruby
